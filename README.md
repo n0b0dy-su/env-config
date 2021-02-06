@@ -4,8 +4,8 @@
 
 Hi, these are some config file of my work environment.
 
-- **Editor:** [vim](https://github.com/vim) [`config file`](kitty.conf)
-- **Terminal:** [kitty](https://github.com/kovidgoyal/kitty/) [`config file`](.vimrc)
+- **Editor:** [vim](https://github.com/vim) [`config file`](.vimrc)
+- **Terminal:** [kitty](https://github.com/kovidgoyal/kitty/) [`config file`](kitty.conf)
 
 ```bash
 
